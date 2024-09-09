@@ -1,0 +1,1 @@
+This project implements a Movie Recommender System that suggests movies to users based on their viewing history and preferences. The system uses cosine similarity to provide personalized recommendations. It is implemented in Python and uses popular libraries like pandas, scikit-learn, numpy and ast.
